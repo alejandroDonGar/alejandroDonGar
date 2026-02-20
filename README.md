@@ -1,10 +1,10 @@
-<h1 align="center">👋 Juan España</h1>
+<h1 align="center">👋 Alejandro Donate García</h1>
 <h3 align="center">💻 Desarrollador de Software</h3>
-
+<!--
 <p align="center">
   <img src="perfil.jpg" width=300 />
 </p>
-
+-->
 <p align="center">
 🧼 Clean Code • 🌱 Open Source • ❤️ Tech Lover
 </p>
@@ -21,7 +21,6 @@
   </a>
 </p>
 
----
 
 ## 🧠 Sobre mí
 
