@@ -1,26 +1,25 @@
 <h1 align="center">👋 Alejandro Donate García</h1>
 <h3 align="center">💻 Desarrollador de Software</h3>
-<!--
+
 <p align="center">
-  <img src="perfil.jpg" width=300 />
+  <img src="images/IMG_3272.JPG" width=300 />
 </p>
--->
+
 <p align="center">
 🧼 Clean Code • 🌱 Open Source • ❤️ Tech Lover
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/TU_PERFIL">
+  <a href="https://www.linkedin.com/in/alejandro-donate-garc%C3%ADa-8633453b3/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:TU_EMAIL">
+  <a href="mailto:alexdoga.work@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com/juanespana">
+  <a href="https://github.com/alejandroDonGar">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
-
 
 ## 🧠 Sobre mí
 
