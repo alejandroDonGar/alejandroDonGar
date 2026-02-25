@@ -25,11 +25,10 @@
 
 Estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)** en busqueda de aprender a crear software útil, eficiente y bien diseñado.
 
-- 🚀 Interés en desarrollo Full Stack  
-- 📱 Desarrollo Android con Java  
-- ⚙️ APIs REST con Java / Spring  
+- 🚀 Interés en el diseño con HTML/CSS  
+- ⚙️ Fan del funcionamiento de las BBDD
 - 🌍 Trabajo con metodologías ágiles  
-- 📚 Aprendizaje continuo  
+- 📚 Buscar aprender continuamente 
 
 ---
 <!--
