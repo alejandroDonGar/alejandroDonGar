@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/alejandro-donate-garc%C3%ADa-8633453b3/">
+  <a href="https://www.linkedin.com/in/alejandrodongar/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:alexdoga.work@gmail.com">
