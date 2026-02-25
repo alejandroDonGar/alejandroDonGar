@@ -23,7 +23,7 @@
 
 ## 🧠 Sobre mí
 
-Estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)** apasionado por crear software útil, eficiente y bien diseñado.
+Estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)** en busqueda de aprender a crear software útil, eficiente y bien diseñado.
 
 - 🚀 Interés en desarrollo Full Stack  
 - 📱 Desarrollo Android con Java  
@@ -98,8 +98,8 @@ Panel interactivo de visualización de datos.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alejandroDonGar&show_icons=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alejandroDonGar&layout=compact" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=alejandroDonGar&show_icons=true" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=alejandroDonGar&layout=compact" />
 </p>
 
 ---
@@ -109,13 +109,12 @@ Panel interactivo de visualización de datos.
 <p align="center">
 
 💼 LinkedIn — https://linkedin.com/in/TU_PERFIL  
-📧 Email — TU_EMAIL  
-🌐 Portfolio — https://TU_WEB  
+📧 Email — AlexDoGa.work@gmail.com  
+🌐 Portfolio — [https://tu_WEB]()  
 
 </p>
-
----
 -->
+---
 <p align="center">
 ⭐ Gracias por visitar mi perfil — github.com/alejandroDonGar
 </p>
