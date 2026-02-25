@@ -25,8 +25,8 @@
 
 Estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)** en busqueda de aprender a crear software útil, eficiente y bien diseñado.
 
-- 🚀 Interés en el diseño con HTML/CSS  
-- ⚙️ Fan del funcionamiento de las BBDD
+- 🎨 Interés en el diseño con HTML/CSS  
+- 💻 Fan del funcionamiento de las BBDD
 - 🌍 Trabajo con metodologías ágiles  
 - 📚 Buscar aprender continuamente 
 
@@ -79,7 +79,7 @@ Panel interactivo de visualización de datos.
 ## 🧰 Tecnologías y herramientas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,androidstudio,maven,sqlite,git,github,html,css,js" />
+  <img src="https://skillicons.dev/icons?i=java,maven,postgres,git,github,html,css,js" />
 </p>
 
 ---
