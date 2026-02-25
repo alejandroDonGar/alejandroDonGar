@@ -113,7 +113,6 @@ Panel interactivo de visualización de datos.
 
 </p>
 -->
----
 <p align="center">
 ⭐ Gracias por visitar mi perfil — github.com/alejandroDonGar
 </p>
