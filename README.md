@@ -4,7 +4,7 @@
 <p align="center">
   <img src="images/IMG_3272.JPG" width=300 />
 </p>
-
+<img src="https://capsule-render.vercel.app" />
 <p align="center">
 🧼 Clean Code • 🌱 Open Source • ❤️ Tech Lover
 </p>
@@ -97,22 +97,22 @@ Panel interactivo de visualización de datos.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=alejandroDonGar&show_icons=true" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=alejandroDonGar&layout=compact" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=alejandroDonGar&show_icons=true&&theme=dracula&hide_border=true" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=alejandroDonGar&layout=compact&&theme=dracula&hide_border=true" />
 </p>
 
 ---
-<!--
+
 ## 📫 Contacto
 
 <p align="center">
 
-💼 LinkedIn — https://linkedin.com/in/TU_PERFIL  
+💼 LinkedIn — https://www.linkedin.com/in/alejandrodongar                                                                                                                                           
 📧 Email — AlexDoGa.work@gmail.com  
 🌐 Portfolio — [https://tu_WEB]()  
 
 </p>
--->
+
 <p align="center">
 ⭐ Gracias por visitar mi perfil — github.com/alejandroDonGar
 </p>
