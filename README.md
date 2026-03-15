@@ -3,7 +3,7 @@
 <h3 align="center">Estudiante de Desarrollo de Aplicaciones Multiplataforma (DAM)</h3>
 
 <p align="center">
-  <img src="./images/IMG_3272.JPG" width="180" style="border-radius:12px;">
+  <img src="./perfil.jpg" width="180" style="border-radius:12px;">
 </p>
 
 <p align="center">
@@ -11,16 +11,14 @@ Aprendiendo desarrollo de software paso a paso y construyendo una base sólida c
 </p>
 
 <p align="center">
-  <a href="https://alejandrodongar.github.io/">
-    🌐 Ver mi portfolio
-  </a>
+  <a href="https://alejandrodongar.github.io/">🌐 Ver mi portfolio</a>
 </p>
 
 ---
 
 ## 🙋 Sobre mí
 
-Soy estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)** y actualmente estoy en una etapa de aprendizaje en la que quiero **entender bien las bases del desarrollo de software**.
+Soy estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)** y actualmente estoy en una etapa de aprendizaje donde quiero **entender bien las bases del desarrollo de software**.
 
 Me interesa especialmente:
 
@@ -55,14 +53,14 @@ Mi objetivo ahora mismo es **seguir practicando, mejorar mi base y aprender lo m
 
 Actualmente los proyectos que estoy realizando son principalmente **tareas y ejercicios de clase**, donde aplico los conceptos que voy aprendiendo.
 
-Algunas de las cosas que estoy practicando incluyen:
+Entre las cosas que estoy practicando:
 
 - Ejercicios de **programación en Java**
 - Prácticas de **bases de datos y consultas SQL**
-- Pequeños ejercicios de **HTML y CSS**
+- Ejercicios de **HTML y CSS**
 - Uso de **Git y GitHub** para gestionar código
 
-Aunque son proyectos sencillos, me ayudan a **entender mejor los fundamentos del desarrollo** y a ganar experiencia práctica.
+Aunque son proyectos sencillos, me ayudan a **entender mejor los fundamentos del desarrollo**.
 
 ---
 
@@ -71,22 +69,22 @@ Aunque son proyectos sencillos, me ayudan a **entender mejor los fundamentos del
 - Pensar mejor la lógica antes de programar
 - Escribir código más limpio y organizado
 - Entender mejor cómo estructurar proyectos
-- Seguir practicando programación de forma constante
+- Practicar programación de forma constante
 
 ---
 
 ## 📊 Actividad en GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alejandroDonGar&show_icons=true&hide_border=true&bg_color=fcf8f1&title_color=a9774b&text_color=52473b&icon_color=7b7558&border_color=d2c5b2"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=alejandroDonGar&show_icons=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alejandroDonGar&layout=compact&hide_border=true&bg_color=fcf8f1&title_color=a9774b&text_color=52473b&icon_color=7b7558&border_color=d2c5b2"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alejandroDonGar&layout=compact" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=alejandroDonGar&hide_border=true&background=FCF8F1&ring=A9774B&fire=7B7558&currStreakLabel=6D645A&sideLabels=6D645A&dates=8C8175&currStreakNum=52473B&sideNums=52473B"/>
+  <img src="https://streak-stats.demolab.com?user=alejandroDonGar" />
 </p>
 
 ---
