@@ -22,12 +22,10 @@ Soy estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)** y actualm
 
 Me interesa especialmente:
 
-- La lógica de programación con **Java**
-- Entender cómo funcionan las **bases de datos**
-- Aprender a construir interfaces limpias con **HTML y CSS**
-- Ganar experiencia práctica mientras sigo aprendiendo
-
-Mi objetivo ahora mismo es **seguir practicando, mejorar mi base y aprender lo máximo posible**.
+- Java y la lógica de programación
+- Bases de datos y SQL
+- Desarrollo web con HTML y CSS
+- Seguir mejorando con práctica y proyectos
 
 ---
 
@@ -37,11 +35,10 @@ Mi objetivo ahora mismo es **seguir practicando, mejorar mi base y aprender lo m
 - Consultas y modelado básico con **SQL / PostgreSQL**
 - Maquetación web con **HTML y CSS**
 - Flujo de trabajo con **Git y GitHub**
-- Diseño responsive y organización del código
 
 ---
 
-## 🧰 Tecnologías y herramientas
+## 🧰 Tecnologías
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,postgres,html,css,git,github,js,maven" />
@@ -49,54 +46,40 @@ Mi objetivo ahora mismo es **seguir practicando, mejorar mi base y aprender lo m
 
 ---
 
-## 📚 Proyectos y prácticas
-
-Actualmente los proyectos que estoy realizando son principalmente **tareas y ejercicios de clase**, donde aplico los conceptos que voy aprendiendo.
-
-Entre las cosas que estoy practicando:
-
-- Ejercicios de **programación en Java**
-- Prácticas de **bases de datos y consultas SQL**
-- Ejercicios de **HTML y CSS**
-- Uso de **Git y GitHub** para gestionar código
-
-Aunque son proyectos sencillos, me ayudan a **entender mejor los fundamentos del desarrollo**.
-
----
-
-## 📈 En qué estoy mejorando ahora
-
-- Pensar mejor la lógica antes de programar
-- Escribir código más limpio y organizado
-- Entender mejor cómo estructurar proyectos
-- Practicar programación de forma constante
-
----
-
 ## 📊 Actividad en GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alejandroDonGar&show_icons=true" />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://github-readme-stats.vercel.app/api?username=alejandroDonGar&show_icons=true&hide_border=true&bg_color=0d1117&title_color=d2a06f&text_color=efe4d6&icon_color=8b9270" />
+  <img src="https://github-readme-stats.vercel.app/api?username=alejandroDonGar&show_icons=true&hide_border=true"
+       alt="GitHub stats" />
+</picture>
+
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alejandroDonGar&layout=compact" />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=alejandroDonGar&layout=compact&bg_color=0d1117&title_color=d2a06f&text_color=efe4d6" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alejandroDonGar&layout=compact"
+       alt="Top languages" />
+</picture>
+
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=alejandroDonGar" />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://streak-stats.demolab.com?user=alejandroDonGar&background=0d1117&ring=d2a06f&fire=8b9270&currStreakLabel=efe4d6&sideLabels=efe4d6&dates=efe4d6" />
+  <img src="https://streak-stats.demolab.com?user=alejandroDonGar"
+       alt="GitHub streak" />
+</picture>
+
 </p>
-
----
-
-## 🎯 Qué busco
-
-Ahora mismo estoy buscando oportunidades para:
-
-- Seguir aprendiendo desarrollo de software
-- Trabajar en proyectos reales
-- Mejorar mi base como desarrollador junior
-- Ganar experiencia en un entorno profesional
 
 ---
 
