@@ -3,7 +3,7 @@
 <h3 align="center">Estudiante de Desarrollo de Aplicaciones Multiplataforma (DAM)</h3>
 
 <p align="center">
-  <img src="./perfil.jpg" width="180" style="border-radius:12px;">
+  <img src="./images/IMG_3272.JPG" width="180" style="border-radius:12px;">
 </p>
 
 <p align="center">
