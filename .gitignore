@@ -1,0 +1,5 @@
+# Never commit keys
+*.pub
+*.pem
+id_*
+gitHubAlejandro*
